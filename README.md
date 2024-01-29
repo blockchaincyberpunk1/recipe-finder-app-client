@@ -1,11 +1,12 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/blockchaincyberpunk1/recipe-finder-app-client)](https://github.com/blockchaincyberpunk1/recipe-finder-app-client/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/blockchaincyberpunk1/recipe-finder-app-client)](https://github.com/blockchaincyberpunk1/recipe-finder-app-client/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/blockchaincyberpunk1/recipe-finder-app-client)](https://github.com/blockchaincyberpunk1/recipe-finder-app-client/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/blockchaincyberpunk1/recipe-finder-app-client)](https://github.com/blockchaincyberpunk1/recipe-finder-app-client/pulls)
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -58,7 +59,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/recipe-finder-app.git
+   git clone https://github.com/blockchaincyberpunk1/recipe-finder-app-client.git
    ```
 2. Navigate to the client directory
    ```sh
